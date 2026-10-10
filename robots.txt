@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/trost-cbd-gummies-us-ca/sitemap.xml
+Sitemap: https://trost-cbd-gummies-us-ca.vercel.app/sitemap-vercel.xml
+Sitemap: https://trost-cbd-gummies-us-ca.pages.dev/sitemap-cloudflare.xml
